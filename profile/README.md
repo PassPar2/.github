@@ -8,4 +8,3 @@ feel free to use my code as you like
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel1touimi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on pp2-sceneman, a qbcore admin menu to manage scenes (remove ped and vehicules)
